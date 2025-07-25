@@ -1,6 +1,5 @@
 
 import Image from "next/image";
-import Link from "next/link";
 
 
 export default function Home() {
@@ -11,6 +10,7 @@ export default function Home() {
         <Image src="/landingpage.jpeg" fill alt='' className='object-contain object-right rounded-4xl'/>
         
       </div>
+    
       
     </div>
   );
